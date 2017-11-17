@@ -7,7 +7,14 @@ This project was designed to teach students on how to deploy a flask App utilizi
 ### Ip address: 18.221.48.181
 ### ssh port: 2200
 ### Complete URL to hosted application: http://ec2-18-221-48-181.us-east-2.compute.amazonaws.com/
-### Third party resources: google Oauth and facebook Oauth
+
+# Third party resources,Tutorials & References
+###### Google:[google OAuth](https://console.developers.google.com)
+###### Facebook:[Facebook OAuth](https://developers.facebook.com/)
+###### Guide to deploying a Flask App on Ubuntu:[How To Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+###### Apache Error logs:[Where are the Apache and PHP log files?](https://askubuntu.com/questions/14763/where-are-the-apache-and-php-log-files)
+###### [UFW Essentials: Common Firewall Rules and Commands](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)
+
 
 # Step by Step Walkthrough
 In the detailed guide below I tried to briefly document the steps I executed to get to the projects solution. The numbering and headlines should be congruent to the projects tasks 1-11. Please read through the linked sources to fully understand what is done in those steps. The walkthrough is surely far from perfect and I'm thankful for any feedback, reported errors, advice, etc. I get on this.
